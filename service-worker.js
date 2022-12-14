@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Quez-app/Frontend/my-app/precache-manifest.46b7ed7a8e9d2d5ab6b37aa0adb5e4e3.js"
+  "/Quez-app/precache-manifest.eaeea180bf62b13adbb5c2e869b43f34.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Quez-app/Frontend/my-app/index.html", {
+workbox.routing.registerNavigationRoute("/Quez-app/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
