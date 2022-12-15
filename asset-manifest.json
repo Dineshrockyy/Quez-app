@@ -1,13 +1,13 @@
 {
-  "main.css": "/Quez-app/static/css/main.de7df07d.chunk.css",
-  "main.js": "/Quez-app/static/js/main.9af73c34.chunk.js",
-  "main.js.map": "/Quez-app/static/js/main.9af73c34.chunk.js.map",
-  "static/js/1.bc1db105.chunk.js": "/Quez-app/static/js/1.bc1db105.chunk.js",
-  "static/js/1.bc1db105.chunk.js.map": "/Quez-app/static/js/1.bc1db105.chunk.js.map",
-  "runtime~main.js": "/Quez-app/static/js/runtime~main.a43d2506.js",
-  "runtime~main.js.map": "/Quez-app/static/js/runtime~main.a43d2506.js.map",
-  "static/css/main.de7df07d.chunk.css.map": "/Quez-app/static/css/main.de7df07d.chunk.css.map",
-  "index.html": "/Quez-app/index.html",
-  "precache-manifest.eaeea180bf62b13adbb5c2e869b43f34.js": "/Quez-app/precache-manifest.eaeea180bf62b13adbb5c2e869b43f34.js",
-  "service-worker.js": "/Quez-app/service-worker.js"
+  "files": {
+    "main.css": "/Quez-app/static/css/main.755764bf.css",
+    "main.js": "/Quez-app/static/js/main.db21adab.js",
+    "index.html": "/Quez-app/index.html",
+    "main.755764bf.css.map": "/Quez-app/static/css/main.755764bf.css.map",
+    "main.db21adab.js.map": "/Quez-app/static/js/main.db21adab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.755764bf.css",
+    "static/js/main.db21adab.js"
+  ]
 }
